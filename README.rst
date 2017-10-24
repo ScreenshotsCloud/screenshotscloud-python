@@ -21,7 +21,7 @@ Install via pip
 
     pip install screenshotscloud
 
-Once installed you can generate screenshots as follows:
+Once installed you can generate screenshot urls as follows:
 
 .. code:: python
 
