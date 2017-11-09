@@ -7,7 +7,8 @@ Perfect Screenshots Anywhere
 Get high quality screenshots using a real browser in seconds using our
 reliable CDN backed API service.
 
-Get an API Key to start using this fast screenshot API service at <https://screenshots.cloud>
+Get an API Key to start using this fast screenshot API service at `ScreenshotsCloud 
+<https://screenshots.cloud>`_
 
 Requirements
 ------------
@@ -37,7 +38,8 @@ Once installed you can generate screenshot urls as follows:
         "width": 800
     })
 
-See <https://screenshots.cloud/documentation> or the README.md in this package for more information on the parameters you can use in your requests.
+See our `Documentation
+<https://screenshots.cloud/documentation>`_ or the README.md in this package for more information on the parameters you can use in your requests.
 
 -------
 
