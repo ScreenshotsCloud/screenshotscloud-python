@@ -1,4 +1,4 @@
-# urlparse in python3 has been renamed to urllib.parse
+# urllib in python3 has been renamed to urllib.parse
 try:
     from urllib import urlencode
 except ImportError:
