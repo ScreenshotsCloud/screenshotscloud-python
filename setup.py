@@ -2,15 +2,15 @@ from distutils.core import setup
 setup(
   name = 'screenshotscloud',
   packages = ['screenshotscloud'],
-  version = '1.0.1',
+  version = '1.0.2',
   description = 'ScreenshotsCloud Python screenshot generator',
   long_description = open('./README.rst', 'r').read(),
   author = 'Chris Hutchinson',
   author_email = 'chris@equalkit.com',
   license = 'MIT',
-  url = 'https://github.com/ScreenshotsCloud/screenshotscloud-python',
+  url = 'https://screenshots.cloud/',
   keywords = ['screenshots', 'screenshots.cloud', 'firefox', 'browser'],
-  classifiers=(
+  classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'Natural Language :: English',
@@ -25,5 +25,5 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy'
-    )
+    ]
 )
