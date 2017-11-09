@@ -5,7 +5,9 @@ Perfect Screenshots Anywhere
 ----------------------------
 
 Get high quality screenshots using a real browser in seconds using our
-reliable CDN backed API service
+reliable CDN backed API service.
+
+Get an API Key to start using this fast screenshot API service at https://screenshots.cloud
 
 Requirements
 ------------

@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'screenshotscloud',
   packages = ['screenshotscloud'],
-  version = '1.0.0',
+  version = '1.0.1',
   description = 'ScreenshotsCloud Python screenshot generator',
   long_description = open('./README.rst', 'r').read(),
   author = 'Chris Hutchinson',
