@@ -34,7 +34,7 @@ Once installed you can generate screenshot urls as follows:
     screenshotscloud = ScreenshotsCloud('SCREENSHOTSCLOUD_KEY', 'SCREENSHOTSCLOUD_SECRET')
 
     screenshotUrl = screenshotscloud.screenshotUrl({
-        "url": "bbc.com/news",
+        "url": "openai.com/research",
         "width": 800
     })
 
